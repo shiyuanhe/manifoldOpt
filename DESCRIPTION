@@ -1,0 +1,12 @@
+Package: rOptManifold
+Type: Package
+Title: What the package does (short line)
+Version: 1.1
+Date: 2016-06-10
+Author: Kejun He, Shiyuan He, Jianhua Huang
+Maintainer: Kejun He<kejun@stat.tamu.edu>, Shiyuan He <shiyuan@stat.tamu.edu>
+Description: Matrix manifold includes Sphere, Stiefel, Grassman, fixed-rank matrix manifold and variants of fixed-rank manifold. Optimization methods include steepest descent, trust region, conjugate gradient and particle swarm method.
+License: GPL (>= 2)
+Imports: methods, Rcpp (>= 0.12.5)
+LinkingTo: Rcpp, RcppArmadillo
+Suggests: testthat
